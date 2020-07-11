@@ -23,6 +23,7 @@
                     <a class="nav-brand" href="{{route('welcome')}}">
                         <img src="{{\Illuminate\Support\Facades\URL::asset('myAssets/images/logo.png')}}" alt="">
                     </a>
+
                 </div><!-- .xs-logo-wraper END -->
                 <div class="col-lg-10 col-xl-7">
                     <ul class="nav-menu">
@@ -35,6 +36,7 @@
                                 <li><a href="event-single.html">Event single</a></li>
                             </ul>
                         </li>
+
                         <li><a href="#">Blog</a>
                             <ul class="nav-dropdown">
                                 <li><a href="blog.html">Blog</a></li>

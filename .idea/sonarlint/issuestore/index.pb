@@ -1,0 +1,53 @@
+
+]
+-resources/views/includes/footer_end.blade.php,9\d\9d897985f5403b5da98cc837d8dcb47eded11380
+a
+1resources/views/includes/common_scripts.blade.php,c\f\cffc95f4a545748a81ec35953655a1634f31f9b8
+]
+-resources/views/includes/header_end.blade.php,0\b\0b570490430d77f216071310f1fff2a5759b92e0
+_
+/resources/views/includes/header_start.blade.php,a\6\a602a4146c372b18abce5bcaf10a17f6fec73f1f
+W
+'resources/views/includes/main.blade.php,d\6\d662b66c4e27563f55d24803042d59c69047937f
+d
+4app/Http/Controllers/Auth/VerificationController.php,4\7\47908c6d61ac78a61e2bcb273e3187e50a1937cc
+`
+0resources/views/includes/common_styles.blade.php,c\4\c416133a7150be52c920c0289e7ef03dfd9da9da
+_
+/resources/views/includes/footer_start.blade.php,5\a\5a7012f5bdd268aed2928651511bbf7108d63a97
+O
+resources/views/about.blade.php,4\6\4668c38781542e74e5a895c002b7e88e5fbb3343
+O
+resources/views/index.blade.php,7\2\7285af984716ae46f13e2fe2f49a6044922e65e7
+S
+#resources/views/volunteer.blade.php,2\7\27c9cc7e80f7f8caa701d173238e0a290b5f7015
+N
+resources/views/team.blade.php,2\5\259b35101b9ef1750f0b4270c48d027df784c61b
+Q
+!resources/views/service.blade.php,e\e\eebe38c3128c8c63796be49e2cb09c2f8ff4fd34
+R
+"resources/views/pricing..blade.php,9\6\96eca0633e9c58e4edfed1702a6b7a847d8984a0
+S
+#resources/views/portfolio.blade.php,6\1\616a2d71dc6012f1a9daed11650cdb9f40421041
+R
+"resources/views/mission..blade.php,0\5\054799f1c0ae85a0624061e84987bb95b11cc916
+M
+resources/views/faq.blade.php,4\1\41d1f93fc29a367f3fee807489ad914f9fbd38c1
+W
+'resources/views/event-single..blade.php,f\f\ff6699b9c9e36128b4b32ff2bba3dc4630bfefc6
+P
+ resources/views/event..blade.php,7\b\7bdd3ee797ceda7ab87f8d45b2087fb8b4c1edac
+T
+$resources/views/donate-now.blade.php,e\0\e01c58c632515c3571ee905a6dc2a8ce8fd1286a
+Q
+!resources/views/contact.blade.php,6\1\614a18f56a1cb18dc9b13eca1ac4e62c282ec2da
+P
+ resources/views/causes.blade.php,f\c\fc4c297bbd088252c3b26197edf79cb2e5873724
+U
+%resources/views/blog-single.blade.php,0\0\001c05476bb0e05bf423fa771c4972ec2793e6c6
+N
+resources/views/blog.blade.php,b\7\b71e6ed90a6ea80e32d4068ca4dacf8d1e5580d5
+>
+routes/web.php,6\b\6b9a783d9b43fee50fd28f56dbd1856d2608f305
+Z
+*resources/views/includes/top_bar.blade.php,a\d\ad6ac75666a0683a3311249ba685e73e326d22da

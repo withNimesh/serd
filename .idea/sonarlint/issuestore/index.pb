@@ -51,3 +51,5 @@ N
 routes/web.php,6\b\6b9a783d9b43fee50fd28f56dbd1856d2608f305
 Z
 *resources/views/includes/top_bar.blade.php,a\d\ad6ac75666a0683a3311249ba685e73e326d22da
+U
+%resources/views/layouts/app.blade.php,4\e\4e52e2a63befd1dc69600001e78b80ebece1ac9b

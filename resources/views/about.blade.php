@@ -32,7 +32,7 @@
 		<div class="row">
 			<div class="col-lg-8 content-center">
 				<div class="xs-video-popup-wraper">
-					<img src="assets/images/video_img.jpg" alt="">
+					<img src="{{\Illuminate\Support\Facades\URL::asset('myAssets/images/video_img.jpg')}}" alt="">
 					<div class="xs-video-popup-content">
 						<a href="https://www.youtube.com/watch?v=Tb1HsAGy-ls" class="xs-video-popup xs-round-btn">
 							<i class="fa fa-play"></i>
